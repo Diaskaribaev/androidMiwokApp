@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f4ffb4"
+    android:orientation="vertical"> <!-- Vertical Orientation set -->
+
+    <!-- Child Views(In this case 2 Button) are here -->
+
+
+    <TextView
+        android:id="@+id/numbers"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="#FFF7AD"
+        android:backgroundTint="#FFF48F"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="Numbers"
+        android:textSize="18sp"
+
+        />
+
+    <TextView
+        android:id="@+id/family"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="#FFDDD2"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="Family Members"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/colors"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="#EEF69E"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="Colors"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/phrases"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="#D8B0B0"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="Phrases"
+        android:textSize="18sp"
+        />
+</LinearLayout>
