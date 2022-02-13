@@ -1,5 +1,4 @@
-# androidMiwokApp
-
+# Dias Karibaev SE-2004 Android Miwok App
 
 ![Снимок экрана (19)](https://user-images.githubusercontent.com/51242971/153762645-574d45b8-4bef-43da-b0e6-fecbebf86cca.png)
 ![Снимок экрана (20)](https://user-images.githubusercontent.com/51242971/153762646-d6390e8e-0d7c-4acb-84fb-b97828d9801a.png)
